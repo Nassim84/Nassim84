@@ -22,7 +22,7 @@ Je suis un développeur web passionné spécialisé dans les technologies **Reac
 ## Projets populaires 🚀
 - [Flag-react-app](https://github.com/Nassim84/flag-react-app) - Une application React pour jouer avec les drapeaux des pays. 🌍
 - [Frontend Gocar](https://github.com/Nassim84/frontend-gocar) - L'application frontend pour la plateforme de covoiturage GoCar. 🚗
-- [Backend GoCar](https://github.com/Nassim84/backendGocar) - Le backend de l'application GoCar avec Node.js et Prisma. ⚙️
+- [Backend GoCar](https://github.com/Nassim84/backendGocar) - Le backend de l'application GoCar avec Express.js et Sequelize. ⚙️
 
 ## Connectez-vous avec moi 🌐
 - [LinkedIn](https://www.linkedin.com/in/nassim-belalia/)
