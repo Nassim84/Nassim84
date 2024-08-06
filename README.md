@@ -17,7 +17,7 @@ Je suis un développeur web passionné spécialisé dans les technologies **Reac
 ## Technologies et outils 🛠️
 - **Frontend**: React, TypeScript, Vite, React Native, Electron, React Router
 - **Backend**: Node.js, Express, Sequelize, Prisma, MySQL, MongoDB, JWT
-- **Outils de développement**: GitHub, Docker, VSCode, Postman, Jest, Figma, Docker
+- **Outils de développement**: GitHub, Docker, VSCode, Postman, Jest, Figma
 
 ## Projets populaires 🚀
 - [Flag-react-app](https://github.com/Nassim84/flag-react-app) - Une application React pour jouer avec les drapeaux des pays. 🌍
