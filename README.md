@@ -39,7 +39,10 @@ Je m’efforce de créer des applications **modernes, performantes et évolutive
 - [Backend GoCar](https://github.com/Nassim84/backendGocar) - Le backend de l'application GoCar avec Express.js et Sequelize. ⚙️
 
 ## Connectez-vous avec moi 🌐
-- [LinkedIn](https://www.linkedin.com/in/nassim-belalia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nassim-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-belalia/)
+
+[![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nassim.belalia@etu.univ-amu.fr)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassim84&show_icons=true&theme=radical)
 
